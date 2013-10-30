@@ -45,6 +45,7 @@ return array(
                             'share.js' => 'js/share.js',
                             'games.js' => 'js/games.js',
                             'bootstrap.min.js' => 'js/bootstrap.min.js',
+                            'fbregister.js' => 'js/fbregister.js',
                         ),
                         'filters' => array(),
                         'options' => array(
